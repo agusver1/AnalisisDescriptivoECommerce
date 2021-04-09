@@ -1,0 +1,8 @@
+Se utiliza el lenguaje de programación R para evaluar los gastos anuales de una muestra de una población en E-Commerce.
+Se busca hacer un análisis de estadística descriptiva totalmente genérico.
+Esto ayuda de una manera impresionante ya que al estar programado de manera totalmente genérica, se puede ingresar cualquier dataset.
+Al ingresarlo, se comparan los datos y su posible modelización respecto a la campana de Gauss (Distribución normal).
+Se da un análisis gráfico y una extensión técnica en los comentarios de la programación del mismo para que se entienda perfectamente.
+Las librerias de R usadas son readr y moments, las cuales son instaladas en el mismo codigo asi que no hay de que preocuparse con esto.
+En este caso, analicé el dataset de E-Commerce, proponiendo diferentes situaciones de Data Analysis pertinentes al estudio de los datos.
+Con los gráficos, el usuario o estadista se puede dar una idea de la respresentación de los datos y su semejanza al modelo más usado, que es la distribución normal.
